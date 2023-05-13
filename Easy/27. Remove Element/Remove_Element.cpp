@@ -61,6 +61,7 @@
 */
 
 #include <vector>
+#include <iostream>
 
 class Solution {
 public:
@@ -92,6 +93,7 @@ public:
 // Code for testing
 // Should produce result 2
 
+/*
 int main() {
 
     Solution test_solution;
@@ -104,3 +106,4 @@ int main() {
 
     return 0;
 }
+*/
