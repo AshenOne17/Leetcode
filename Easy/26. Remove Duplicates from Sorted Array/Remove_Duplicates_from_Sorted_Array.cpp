@@ -59,6 +59,7 @@
 #include <vector>
 #include <unordered_set>
 #include <algorithm>
+#include <iostream>
 
 // This solution is more time efficient in case we have an efficient hash function
 // For ints this solution is better (The standard library provides a default hash which is simply the identity function).
